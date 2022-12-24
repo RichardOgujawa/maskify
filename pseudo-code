@@ -1,0 +1,1 @@
+The code will check if the input has an input more than 4 characters. If it doesn't it'll output the input as is. If it does it will change everything, except the last four digits of the input. 
